@@ -1,2 +1,2 @@
-# Rhizka's Rock Paper Scissors (Unity Engine)
- Rock Paper Scissor game sample, by Rhizka Subentar (Available on Windows only)
+# Rhizka Subentar's Rock Paper Scissors
+ Unity 2D game, gameplay is quite simple: Rock Paper Scissor, (Available on Windows only)
